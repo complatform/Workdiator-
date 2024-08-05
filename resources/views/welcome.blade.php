@@ -7,6 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>wellcome workdiator!</h1>
+
 </body>
 </html>
